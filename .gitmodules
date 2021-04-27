@@ -1,0 +1,3 @@
+[submodule "qdriven-github"]
+ path = github
+ url = https://github.com/qdriven/qdriven-github.git

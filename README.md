@@ -13,4 +13,4 @@ A Setup Qdriven toolkits profolio page.
 
 ## Github/Git 集成代码
 
-- [java-github-api-integration](./github/)
+- [java-github-api-integration](https://github.com/qdriven/github.git)

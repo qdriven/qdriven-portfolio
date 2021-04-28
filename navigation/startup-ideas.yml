@@ -1,0 +1,7 @@
+qa-dev:
+  - https://github.com/NodeBB/NodeBB
+  - https://github.com/discourse/discourse
+  - https://docs.forem.com/getting-started/
+  - https://forem.dev/
+codes:
+  - https://github.com/testproject-io/java-opensdk.git
